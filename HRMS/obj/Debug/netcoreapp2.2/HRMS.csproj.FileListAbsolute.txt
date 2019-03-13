@@ -1,0 +1,14 @@
+G:\Practice_Task\HRMS\HRMS\bin\Debug\netcoreapp2.2\HRMS.deps.json
+G:\Practice_Task\HRMS\HRMS\bin\Debug\netcoreapp2.2\HRMS.runtimeconfig.json
+G:\Practice_Task\HRMS\HRMS\bin\Debug\netcoreapp2.2\HRMS.runtimeconfig.dev.json
+G:\Practice_Task\HRMS\HRMS\bin\Debug\netcoreapp2.2\HRMS.dll
+G:\Practice_Task\HRMS\HRMS\bin\Debug\netcoreapp2.2\HRMS.pdb
+G:\Practice_Task\HRMS\HRMS\obj\Debug\netcoreapp2.2\HRMS.csprojAssemblyReference.cache
+G:\Practice_Task\HRMS\HRMS\obj\Debug\netcoreapp2.2\HRMS.csproj.CoreCompileInputs.cache
+G:\Practice_Task\HRMS\HRMS\obj\Debug\netcoreapp2.2\HRMS.RazorAssemblyInfo.cache
+G:\Practice_Task\HRMS\HRMS\obj\Debug\netcoreapp2.2\HRMS.RazorAssemblyInfo.cs
+G:\Practice_Task\HRMS\HRMS\obj\Debug\netcoreapp2.2\HRMS.AssemblyInfoInputs.cache
+G:\Practice_Task\HRMS\HRMS\obj\Debug\netcoreapp2.2\HRMS.AssemblyInfo.cs
+G:\Practice_Task\HRMS\HRMS\obj\Debug\netcoreapp2.2\HRMS.RazorTargetAssemblyInfo.cache
+G:\Practice_Task\HRMS\HRMS\obj\Debug\netcoreapp2.2\HRMS.dll
+G:\Practice_Task\HRMS\HRMS\obj\Debug\netcoreapp2.2\HRMS.pdb
